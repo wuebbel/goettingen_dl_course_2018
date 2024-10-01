@@ -1,6 +1,6 @@
-# Göttingen DL course material
+# Clone of J. Adlers github repository
 
-This is the repository for course material (input and output) for the "Mathematics of deep learning with an emphasis on inverse problems" course at Göttingen 2018.
+This is a clone of J. Adlers repository adler-j/goettingen_dl_course_2018. The repository contains the course material (input and output) for the "Mathematics of deep learning with an emphasis on inverse problems" course at Göttingen 2018. Several typos from the original were corrected. See the second commit for all changes.
 
 ## Installing Dependencies
 
