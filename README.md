@@ -3,6 +3,8 @@
 This is a clone of J. Adlers repository adler-j/goettingen_dl_course_2018. The repository contains the course material (input and output) for the "Mathematics of deep learning with an emphasis on inverse problems" course at Göttingen 2018. Several typos from the original were corrected. See the second commit for all changes.
 
 # Running the code on University of Münster central jupyterhub
+Note: Should you have problems installing odl, use pip install https://www.uni-muenster.de/AMM/num/assets/odl-1.0.0.dev0-py2.py3-none-any.whl.
+
 Follow the commands.
 
 1. Sign in to https://jupyterhub.wwu.de/.
